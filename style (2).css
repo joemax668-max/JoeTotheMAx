@@ -1,0 +1,58 @@
+/* style.css */
+
+
+body {
+background-image: url(https://tse1.mm.bing.net/th/id/OIP.WBikCM5yGwAytQ2i7wXz8gHaHa?rs=1&pid=ImgDetMain&o=7&rm=3);
+background-size: cover;
+background-position: center;
+font-family: Arial, sans-serif;
+color: #ffffff;
+margin: 20px;
+}
+
+
+h1 {
+text-align: center;
+color: #800000;
+}
+
+
+h2 {
+color: #333366;
+border-bottom: 2px solid #ccc;
+padding-bottom: 5px;
+}
+
+
+ul, ol {
+margin-left: 30px;
+}
+
+
+img {
+margin: 10px 0;
+border: 2px solid #555;
+border-radius: 5px;
+}
+
+
+blockquote {
+font-style: italic;
+background: #eee;
+padding: 10px;
+border-left: 5px solid #800000;
+margin: 15px 0;
+}
+
+
+video {
+display: block;
+margin: 15px auto;
+border: 2px solid #333;
+border-radius: 8px;
+}
+
+
+p {
+line-height: 1.6;
+}
